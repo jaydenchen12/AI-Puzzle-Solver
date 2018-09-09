@@ -14,9 +14,9 @@ class PuzzleMove has methods can find open moves, apply moves, and find open mov
 To execute compile and execute this project. On Tux:
 
 type: 
-$make
+`make`
 #this will trigger the Makefile and compile all the nessesary files
 
-$./solver 
+`./solver`
 #this will execute the complied file and it will output all the searchs and the moves taken to get to that search.
 currently there is no arugments for this file, only SBP-level0.txt and SBP-level1.txt are used.
